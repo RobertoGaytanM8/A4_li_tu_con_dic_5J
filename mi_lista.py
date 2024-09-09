@@ -1,0 +1,16 @@
+print("Ejemplo de listas")
+arcoiris=["rojo","azul","morado"]
+print(arcoiris)
+long=len(arcoiris)
+print("Elementos que contiene la lista: " , long)
+print(f"Elementos que contiene la lista: {long}")
+print("Accediendo a un elemetno de la lista")
+print(arcoiris[1])
+print(f"Elemento en la posicion 2 es {arcoiris[1]}")
+print("AGREGAR UN ELEMENTO A LA LISTA")
+print(arcoiris)
+arcoiris.append("naranja")
+print(arcoiris)
+print("Listar los elementps de la lista ciclo for")
+for gaytan in arcoiris:
+    print(gaytan)
