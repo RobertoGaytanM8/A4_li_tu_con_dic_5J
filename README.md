@@ -5,3 +5,8 @@ Ejemplos en Python sobre listas, tuplas, conjuntos diccionarios
 - ![image](https://github.com/user-attachments/assets/bb9ef17c-fc7b-45f6-816d-998e44e2e3b2)
 - Resultado
 - ![image](https://github.com/user-attachments/assets/7e2025cb-5353-4d85-b24e-27ba2c42b390)
+## Ejemplo de tuplas
+-  ![image](https://github.com/user-attachments/assets/dbdc8aad-eb3b-4fdc-a6bc-7a1863aef78c)
+-  Resultado
+-  ![image](https://github.com/user-attachments/assets/1cafd06a-c0c7-41f8-aef3-23fcf355f053)
+
