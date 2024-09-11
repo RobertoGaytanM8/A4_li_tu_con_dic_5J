@@ -11,4 +11,7 @@ print("Ciclo for")
 for gaytan in miperro:
   print(gaytan)
 
+for gaytan in miperro:
+  print(miperro[gaytan])
+
 
